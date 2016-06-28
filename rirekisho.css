@@ -1,0 +1,35 @@
+.smaller {
+  font-size:13px;
+}
+
+.title {
+  font-size:24px;
+}
+
+.small {
+  font-size:14px;
+}
+
+.contents {
+  font-size:15px;
+  font-family:'花鳥風月';
+}
+
+table, td, th {
+  border-collapse: collapse;
+  border: 1px solid #333;
+}
+
+.history {
+  border: 2px solid #333;
+}
+
+.history td, .history th {
+  border: 1px dotted #333;
+  height: 20px;
+  text-align: center;
+}
+
+.small.year {
+  width:40px;
+}
